@@ -8,7 +8,7 @@ A modern, responsive, single-page agricultural website built with HTML, CSS, and
 
 «Deploy easily using GitHub Pages.»
 
-https://yourusername.github.io/sprout-co-premium-grain-seeds/
+https://javedhayat5.github.io/grain-seeds-website/
 
 ---
 
